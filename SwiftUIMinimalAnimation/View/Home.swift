@@ -65,7 +65,7 @@ struct Home: View {
             .padding(.vertical, 15)
             
             // MARK: Fitness Ring View
-            
+            FitnessRingCardView()
             
         }
         .padding()

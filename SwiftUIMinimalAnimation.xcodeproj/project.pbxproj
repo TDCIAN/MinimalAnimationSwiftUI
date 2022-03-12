@@ -14,6 +14,7 @@
 		1E52B29227DCBB6F0089C710 /* Ring.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E52B29127DCBB6F0089C710 /* Ring.swift */; };
 		1E52B29427DCBC400089C710 /* Step.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E52B29327DCBC400089C710 /* Step.swift */; };
 		1E52B29627DCBCF80089C710 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E52B29527DCBCF80089C710 /* Home.swift */; };
+		1E52B29827DCC6890089C710 /* FitnessRingCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1E52B29727DCC6890089C710 /* FitnessRingCardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		1E52B29127DCBB6F0089C710 /* Ring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ring.swift; sourceTree = "<group>"; };
 		1E52B29327DCBC400089C710 /* Step.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Step.swift; sourceTree = "<group>"; };
 		1E52B29527DCBCF80089C710 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
+		1E52B29727DCC6890089C710 /* FitnessRingCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FitnessRingCardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			isa = PBXGroup;
 			children = (
 				1E52B29527DCBCF80089C710 /* Home.swift */,
+				1E52B29727DCC6890089C710 /* FitnessRingCardView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 				1E52B29627DCBCF80089C710 /* Home.swift in Sources */,
 				1E52B29227DCBB6F0089C710 /* Ring.swift in Sources */,
 				1E52B28227DCBAE30089C710 /* SwiftUIMinimalAnimationApp.swift in Sources */,
+				1E52B29827DCC6890089C710 /* FitnessRingCardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
